@@ -4,9 +4,9 @@
 
 ✨Hello beaufitul human! ✨
 
-You may have heard many love or hate about TypeScript. 🤷🏻‍♀️ In this series with Josh Goldberg, the author of Learning TypeScript, joins Jenn from Teach Jenn Tech, to teach about TypeScript to Jenn who is a super newb. 
+You may have heard many love or hate about TypeScript. 🤷🏻‍♀️ In this series Josh Goldberg, the author of Learning TypeScript, joins Jenn from Teach Jenn Tech to teach about TypeScript to Jenn, who is a super newb.
 
-For the most part, you'd want to have a good understanding of some type of JavaScript framework... Jenn does not have the usual prerequists of a deep understanding of JavaScript which makes this adventure even more accessible for those breaking into tech and frustrating for those who already know TypeScript! 🤣
+For the most part, you'd want to have a good understanding of some JavaScript frameworks... Jenn does not have the usual prerequisites of a deep understanding of JavaScript, which makes this adventure even more accessible for those breaking into tech and frustrating for those who already know TypeScript! 🤣
 
 Join us every other Friday as we breakdown what Jenn doesn't understand from each chapter and Josh and Jenn work through the chapters project together. 
 
