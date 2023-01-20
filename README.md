@@ -2,16 +2,24 @@
 
 # Learning TypeScript w/ Josh Goldberg
 
-[Learning TypeScript Book](https://www.oreilly.com/library/view/learning-typescript/9781098110321/)
+✨Hello beaufitul human! ✨
 
-[Projects](https://www.learningtypescript.com/projects)
+You may have heard many love or hate about TypeScript. 🤷🏻‍♀️ In this series with Josh Goldberg, the author of Learning TypeScript, joins Jenn from Teach Jenn Tech, to teach about TypeScript to Jenn who is a super newb. 
 
-[Chapter Summaries](https://www.learningtypescript.com/from-javascript-to-typescript)
+For the most part, you'd want to have a good understanding of some type of JavaScript framework... Jenn does not have the usual prerequists of a deep understanding of JavaScript which makes this adventure even more accessible for those breaking into tech and frustrating for those who already know TypeScript! 🤣
+
+Join us every other Friday as we breakdown what Jenn doesn't understand from each chapter and Josh and Jenn work through the chapters project together. 
+
+- Useful Links [Learning TypeScript Book](https://www.oreilly.com/library/view/learning-typescript/9781098110321/) | [Chapter Projects](https://www.learningtypescript.com/projects) | [Chapter Summaries](https://www.learningtypescript.com/from-javascript-to-typescript)
+
+
+
+
 
 ## Module Breakdowns
 - ### Chapter 1: From JavaScript to TypeScript
   - [The Typeinator Project](https://www.learningtypescript.com/from-javascript-to-typescript/the-typeinator/)
-    - If you're not a fan at classes, I'd skip this project 
+    - If you're not a fan at classes, skip this project 
   - [Chapter 1 Livestream](https://youtu.be/K710B5oMYAU)
 
 
