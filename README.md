@@ -10,7 +10,7 @@ For the most part, you'd want to have a good understanding of some type of JavaS
 
 Join us every other Friday as we breakdown what Jenn doesn't understand from each chapter and Josh and Jenn work through the chapters project together. 
 
-- Useful Links [Learning TypeScript Book](https://www.oreilly.com/library/view/learning-typescript/9781098110321/) | [Chapter Projects](https://www.learningtypescript.com/projects) | [Chapter Summaries](https://www.learningtypescript.com/from-javascript-to-typescript)
+- Useful Links [Learning TypeScript Book](https://www.oreilly.com/library/view/learning-typescript/9781098110321/) | [Chapter Projects](https://www.learningtypescript.com/projects) | [Chapter Summaries](https://www.learningtypescript.com/from-javascript-to-typescript) 
 
 
 
@@ -21,5 +21,7 @@ Join us every other Friday as we breakdown what Jenn doesn't understand from eac
   - [The Typeinator Project](https://www.learningtypescript.com/from-javascript-to-typescript/the-typeinator/)
     - If you're not a fan at classes, skip this project 
   - [Chapter 1 Livestream](https://youtu.be/K710B5oMYAU)
-
-
+- ### Chapter 2: The Type System 
+  - Will air on Feb 3rd, 2023
+  - [Join live on Teach Jenn Tech Twitch](https://www.twitch.tv/jennjunod)
+  - [Watch Recording on Teach Jenn Tech YouTube](https://www.youtube.com/channel/UCOYqYy7ebj5j63TbdGB-Lcg)
