@@ -8,5 +8,10 @@
 
 [Chapter Summaries](https://www.learningtypescript.com/from-javascript-to-typescript)
 
-Module Breakdowns
-Chapter... 
+## Module Breakdowns
+- ### Chapter 1: From JavaScript to TypeScript
+  - [The Typeinator Project](https://www.learningtypescript.com/from-javascript-to-typescript/the-typeinator/)
+    - If you're not a fan at classes, I'd skip this project 
+  - [Chapter 1 Livestream](https://youtu.be/K710B5oMYAU)
+
+
