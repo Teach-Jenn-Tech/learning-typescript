@@ -1,4 +1,4 @@
-![Copy of Copy of Teach Jenn Tech (8)](https://user-images.githubusercontent.com/77285384/213764058-afaee6da-2057-43a6-9e36-f5f5ee467997.png)
+![YouTube Thumbnail for Learning TypeScript Livestream with book cover and photo of Josh Goldberg and Jenn Junod](https://user-images.githubusercontent.com/77285384/213764058-afaee6da-2057-43a6-9e36-f5f5ee467997.png)
 
 # Learning TypeScript w/ Josh Goldberg
 
