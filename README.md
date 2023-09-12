@@ -32,7 +32,10 @@ Don't miss out—like, share, and subscribe for a tech-loaded journey. See you n
 ## Module/Chapter Breakdowns
 ### 1️⃣ From JavaScript to TypeScript
  [👀 Chapter 1 Recording](https://youtube.com/live/K710B5oMYAU?feature=share)
+
  [📝 The Typeinator Project](https://www.learningtypescript.com/from-javascript-to-typescript/the-typeinator/) If you're not a fan of classes, skip this project  😂
+
+
  Learning TypeScript's From JavaScript to TypeScript chapter covers the context for some of JavaScript's main weaknesses, where TypeScript comes into play, and how to get started with TypeScript:
 
 A brief history of JavaScript
@@ -45,6 +48,7 @@ A brief history of JavaScript
 
 ### 2️⃣ The Type System 
 [👀 Chapter 2 Recording](https://youtube.com/live/2XGpHFmgrAQ?feature=share)
+
  [📝 System of a Clown Project](https://www.learningtypescript.com/the-type-system/system-of-a-clown/)
 
 Learning TypeScript's The Type System chapter covers how TypeScript's type system works at its core:
